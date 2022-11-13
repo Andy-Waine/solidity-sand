@@ -1,0 +1,19 @@
+{
+  "name": "solidity-sand",
+  "version": "1.0.0",
+  "description": "Smart Contract Design Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andy-Waine/solidity-sand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andy-Waine/solidity-sand/issues"
+  },
+  "homepage": "https://github.com/Andy-Waine/solidity-sand#readme"
+}
